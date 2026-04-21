@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hey folx 😊
+
+I'm a complete newbie in the world of coding, but had an interest in learning a new skill. I am currently taking courses on [Boot.Dev](https://www.boot.dev?bannerlord=goblinacoded), on the Learn Python/Go track. I'm hoping to gain some knowledge and experience for a potential career change in the future.
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/87a15012-4e00-44c5-8038-c2fb671a925a/thumbnail" >
+</p>
 
 <!--
 **GoblinaCoded/GoblinaCoded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
