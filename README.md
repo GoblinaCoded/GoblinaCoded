@@ -10,6 +10,12 @@ My greatest passion has always been video games, and I love sharing that passion
   <img src="https://api.boot.dev/v1/users/public/87a15012-4e00-44c5-8038-c2fb671a925a/thumbnail" >
 </p>
 
+## Support Me
+
+If I've managed to make you laugh at any point, or you've found my advice helpful, consider supporting me with a tip on Ko-fi. Doing so helps keep me fed, so I can keep making cool stuff you enjoy. 😊
+
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#d7827b', 'I3I214YER2');kofiwidget2.draw();</script> 
+
 <!--
 **GoblinaCoded/GoblinaCoded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
