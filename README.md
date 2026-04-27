@@ -14,7 +14,7 @@ My greatest passion has always been video games, and I love sharing that passion
 
 If I've managed to make you laugh at any point, or you've found my advice helpful, consider supporting me with a tip on Ko-fi. Doing so helps keep me fed, so I can keep making cool stuff you enjoy. 😊
 
-<a href='https://ko-fi.com/I3I214YER2' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/I3I214YER2' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Support me on ko-fi.com' /></a>
 
 <!--
 **GoblinaCoded/GoblinaCoded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
