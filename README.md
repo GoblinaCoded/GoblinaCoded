@@ -1,10 +1,10 @@
 # Hey folx, I'm Lina 😊
 
-I'm a complete beginner with coding and am currently taking courses on [Boot.Dev](https://www.boot.dev?bannerlord=goblinacoded), on the Learn Python/Go track. I'm hoping to gain some knowledge and experience for a potential career change, and to maybe make tools for my streaming hobby.
+I'm a complete beginner with coding and am currently taking courses on [Boot.Dev](https://www.boot.dev?bannerlord=goblinacoded), on the Learn Python/Go track. I'm hoping to gain some knowledge and experience for a potential career change.
 
 ## About Me
 
-My greatest passion has always been video games, and I love sharing that passion through my other hobby, streaming. I've always enjoyed puzzle solving, and have dabbled with soft-modding consoles, as well a Raspberry Pi to make small emulation projects.
+My greatest passion has always been video games, and I love sharing that passion through my other hobby, streaming. I've always enjoyed puzzle solving, and have dabbled with soft-modding consoles, as well as a Raspberry Pi to make small emulation projects. I've also poked around with other people's streaming tools, and generally found I could understand them well enough to make changes, but I'd like to some day be able to do that myself.
 
 I'm hoping my progress through Boot.Dev will lead to a newfound interest and valuable skills for a different career.
 
