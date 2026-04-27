@@ -14,15 +14,7 @@ My greatest passion has always been video games, and I love sharing that passion
 
 If I've managed to make you laugh at any point, or you've found my advice helpful, consider supporting me with a tip on Ko-fi. Doing so helps keep me fed, so I can keep making cool stuff you enjoy. 😊
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('anomalina', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#fcbf47',
-    'floating-chat.donateButton.text-color': '#323842'
-  });
-</script>
+<iframe id='kofiframe' src='https://ko-fi.com/anomalina/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='anomalina'></iframe>
 
 <!--
 **GoblinaCoded/GoblinaCoded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
