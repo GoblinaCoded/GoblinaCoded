@@ -4,7 +4,7 @@ I'm a complete beginner, having started to learn to code in March 2026. I'm curr
 
 ## About Me
 
-My greatest passion has always been video games, and I love sharing that passion through my other hobby, streaming. I've always enjoyed puzzle solving, and have dabbled with soft-modding consoles, as well as Raspberry Pi to make small emulation projects. I've also poked around with other people's streaming tools, and generally found I could understand them well enough to make changes, but I'd like to some day be able to make my own. I don't have a specific goal in mind for now, I just want to enjoy the process of learning.
+I'm a British millenial that has worked in customer services, assembly and warehousing, where I've excelled at problem solving and improving processes. My greatest passion has always been video games, and I love sharing that passion through my other hobby, streaming. I've always enjoyed puzzle solving, and have dabbled with soft-modding consoles, as well as Raspberry Pi to make small emulation projects. I've also poked around with other people's streaming tools, and generally found I could understand them well enough to make changes, but I'd like to some day be able to make my own. I don't have a specific goal in mind for now, I just want to enjoy the process of learning.
 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/87a15012-4e00-44c5-8038-c2fb671a925a/thumbnail" >
