@@ -1,6 +1,6 @@
 # Hey folx, I'm Lina 😊
 
-I'm a complete beginner, having started to learn to code in March 2026. I'm currently taking courses on the backend path on [Boot.Dev](https://www.boot.dev?bannerlord=goblinacoded), where I'm currently learning Python. I'm hoping to gain some knowledge and experience for a potential career change, but for now I'm just taking it steady and having fun.
+I'm a complete beginner, having started to learn to code in March 2026. I'm currently taking courses on the backend path on [Boot.Dev](https://www.boot.dev?bannerlord=goblinacoded). I'm hoping to gain some knowledge and experience for a potential career change, but for now I'm just taking it steady and having fun.
 
 ## About Me
 
